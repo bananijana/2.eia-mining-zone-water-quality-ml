@@ -197,38 +197,30 @@ Environmental quality assessment of mining-influenced water bodies is a critical
 
 ---
 
-## Contributors
+## Authorship & Contributors
 
-| Role | Contributor |
-|---|---|
+
 | **Lead Author** | Banani Jana — conceptualisation, EQI framework design, index computation, environmental standards integration, visualisation, documentation |
 | **Contributor** | Anikate Chowdhury — ML classification pipeline, statistical validation |
 
+----
+
+## Author
+
+**Banani Jana**  
+ORCID: https://orcid.org/0009-0007-0146-4535
+
 ---
 
-## Affiliation
+## Citation
+If you use this methodology or implementation logic in academic or technical work,
+please cite this repository.
 
-Department of Geology, Presidency University, Kolkata
-Supervisor: Asst. Prof. Dr. Aditya Sarkar
 
----
-
-## Contact
-
-**Banani Jana**
-M.Sc. Applied Geology (2nd Year), Presidency University, Kolkata
-Email: bananijana2002@gmail.com
+DOI:
 
 ---
 
 ## License
 
 MIT License
-
----
-
-## Citation
-
-If you use this framework, please cite:
-
-> Jana, B., & Chowdhury, A. (2026). *Environmental Impact Assessment of Mining Zone Water Quality Using Geochemical Indices and Machine Learning*. GitHub Repository.
